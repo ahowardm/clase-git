@@ -10,6 +10,10 @@ Para esto vamos a seguir los siguientes pasos:
 # Desarrollo
 
 En primer lugar vamos a bla bla bla, a continuación bla bla bla. Para finalmente bla bla bla.
+
+En base a los resultados, podemos realizar el siguiente análisis.
+
+Bla bla bla
 # Conclusión
 
 En conclusión en base a los análisis realizados podemos concluir que bla bla bla.
