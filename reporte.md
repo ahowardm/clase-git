@@ -16,4 +16,4 @@ En base a los resultados, podemos realizar el siguiente análisis.
 Bla bla bla
 # Conclusión
 
-En conclusión bla bla bla.
+En base a los experimentos realizados y en análisis de sensibilidad podemos concluir que bla bla bla bla.
