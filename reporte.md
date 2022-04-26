@@ -1,6 +1,7 @@
 # Introducción
 
 En este reporte vamos a analizar el comportamiento de bla bla bla.
+
 El objetivo general es bla bla bla y los objetivos específicos bla bla bla.
 Para esto vamos a seguir los siguientes pasos:
     1. Paso 1
