@@ -12,4 +12,4 @@ Para esto vamos a seguir los siguientes pasos:
 En primer lugar vamos a bla bla bla, a continuación bla bla bla. Para finalmente bla bla bla.
 # Conclusión
 
-En conclusión bla bla bla.
+En conclusión en base a los análisis realizados podemos concluir que bla bla bla.
